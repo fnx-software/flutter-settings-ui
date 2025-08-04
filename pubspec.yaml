@@ -16,3 +16,10 @@ dev_dependencies:
   pedantic: ^1.11.1
 
 flutter:
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
