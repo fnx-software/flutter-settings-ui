@@ -48,7 +48,6 @@ class PlatformUtils {
         return DevicePlatform.windows;
     }
   }
-}
 static bool languageIsRTL(BuildContext context) {
     const rtlLanguages = [
       "ar",
